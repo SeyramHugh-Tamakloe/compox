@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855208925086",
+    "project_id": "compx-769c7",
+    "storage_bucket": "compx-769c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855208925086:android:ddf2f21b7d6b30c2c7688f",
+        "android_client_info": {
+          "package_name": "com.example.compox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855208925086-eflq5queql2r5ls4u6h527ht0tuuenpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compox",
+            "certificate_hash": "eed5135dc1fd6c652da47f424aa0ebd1493e4985"
+          }
+        },
+        {
+          "client_id": "855208925086-7euns9ep81jb3snjkdq6gi8qorkkj3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7AlYVpUhmz_gDUjh4bRLz5EKRhqK2RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855208925086-7euns9ep81jb3snjkdq6gi8qorkkj3no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
